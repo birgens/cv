@@ -10,7 +10,7 @@ baseURL: 'https://arbeid.borgeirgens.no/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: nb
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
